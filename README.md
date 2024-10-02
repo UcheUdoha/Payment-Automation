@@ -1,2 +1,2 @@
-# Payment-_Automation
+# Payment-Automation
 Python program to facilitate the weekly payments of workers.
